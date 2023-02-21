@@ -2,11 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ashwin Anand Temkar</h1>
 <h3 align="center">A passionate Full/Multi Stack developer from India</h3>
 
-<img align="right" alt="Programming"  width="200" height="200" src="https://media-exp1.licdn.com/dms/image/C5603AQGF_jdnnB1fTQ/profile-displayphoto-shrink_800_800/0/1645275725947?e=1675296000&v=beta&t=hku9B5oDb9o_rf_g9BbHyKMuOBTlAbsRwln940T0zKQ">
+- 🌱 I’m currently learning **Jakarta EE**
 
-- 🌱 I’m currently learning **Angular**
-
-- 🤝 I’m looking for help with **Flutter/Dart Projects**
+- 🤝 I’m looking for help with **Nothing Currently**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rothardo](https://github.com/rothardo)
 
