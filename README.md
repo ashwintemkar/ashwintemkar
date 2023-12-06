@@ -117,5 +117,19 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   </p>
  </h3>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rothardo&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rothardo&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rothardo&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rothardo&theme=default&utcOffset=8)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rothardo&)</br>
+![](https://github-contributor-stats.vercel.app/api?username=rothardo&limit=5&theme=flat&combine_all_yearly_contributions=true)</br>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=rothardo&show_icons=true&locale=en&layout=compact)</br>
+
+
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=rothardo&icon=0&color=0)](https://visitcount.itsvg.in)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rothardo&show_icons=true&locale=en" alt="rothardo" /></p>	
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rothardo&show_icons=true&locale=en&layout=compact" alt="rothardo" /></p>
