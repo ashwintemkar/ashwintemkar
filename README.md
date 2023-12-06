@@ -129,8 +129,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=rothardo&limit=5&theme=flat&combine_all_yearly_contributions=true)</br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=rothardo&show_icons=true&locale=en&layout=compact)</br>
-
----
-[![](https://visitcount.itsvg.in/api?id=rothardo&icon=0&color=0)](https://visitcount.itsvg.in)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rothardo&show_icons=true&locale=en" alt="rothardo" /></p>	
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rothardo&show_icons=true&locale=en&layout=compact" alt="rothardo" /></p>
