@@ -2,8 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Ashwin Anand Temkar</h1>
 <h3 align="center">A passionate Full/Multi Stack developer from India</h3>
-
+<center>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rothardo&theme=default)
+ 
+</center>
+
 
 - 🌱 I’m currently learning **Jakarta EE**
 
