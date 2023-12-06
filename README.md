@@ -6,12 +6,19 @@
 
 </center>
 - 🌱 I’m currently learning **Jakarta EE**
+<br>
 - 🤝 I’m looking for help with **Nothing Currently**
+<br>
 - 👨‍💻 All of my projects are available at [https://github.com/rothardo](https://github.com/rothardo)
+<br>
 - 💬 Ask me about **Java,C++, Hybrid Stack, Web Dev, Open Source**
+<br>
 - 📫 How to reach me **ashwintemkar@gmail.com**
+<br>
 - ⚡ Fun fact **I am a Jack Who is trying to Become Master of All Trades One at a Time**
+<br>
 <h3 ">Follow Me for Amazing Upcoming Projects</h3>
+<br>
 <p align="left"> <a href="https://github.com/rothardo" target="blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/rothardo?style=social" alt="rothardo" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rothardo&label=Profile%20views&color=0e75b6&style=flat" alt="rothardo" /> </p>
 <p align="left"> <a href="https://twitter.com/rothardo" target="blank"><img src="https://img.shields.io/twitter/follow/rothardo?logo=twitter&style=for-the-badge" alt="rothardo" /></a> </p>
@@ -108,13 +115,21 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   </p>
  </h3>
+ 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rothardo&theme=default)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rothardo&theme=default)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rothardo&theme=default)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rothardo&theme=default&utcOffset=8)</br>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rothardo&)</br>
+
 ![](https://github-contributor-stats.vercel.app/api?username=rothardo&limit=5&theme=flat&combine_all_yearly_contributions=true)</br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=rothardo&show_icons=true&locale=en&layout=compact)</br>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=rothardo&icon=0&color=0)](https://visitcount.itsvg.in)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rothardo&show_icons=true&locale=en" alt="rothardo" /></p>	
