@@ -116,5 +116,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rothardo&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rothardo&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rothardo&theme=default&utcOffset=8)
-![](https://github-readme-streak-stats.herokuapp.com/?user=rothardo&)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rothardo&theme=black-ice&border_radius=50&date_format=M%20j%5B%2C%20Y%5D&card_width=516)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=rothardo&show_icons=true&locale=en&layout=compact)
