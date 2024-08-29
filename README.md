@@ -117,5 +117,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rothardo&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rothardo&theme=default&utcOffset=8)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rothardo&theme=black-ice&border_radius=50&date_format=M%20j%5B%2C%20Y%5D&card_width=516)](https://git.io/streak-stats)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rothardo=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 
