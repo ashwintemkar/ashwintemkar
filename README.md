@@ -3,7 +3,7 @@
 <center>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rothardo&theme=default" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rothardo&theme=vision_friendly_dark" alt="Profile Details" />
 </p>
 
 - 🌱 I’m currently learning **Jakarta EE**
@@ -112,9 +112,9 @@
 
 
  
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rothardo&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rothardo&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rothardo&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rothardo&theme=default&utcOffset=8)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rothardo&theme=black-ice&border_radius=50&date_format=M%20j%5B%2C%20Y%5D&card_width=516)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rothardo&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rothardo&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rothardo&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rothardo&theme=vision_friendly_dark&utcOffset=8)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rothardo&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
 
