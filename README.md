@@ -3,7 +3,7 @@
 <center>
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rothardo&theme=vision_friendly_dark" alt="Profile Details" />
+    
 </p>
 
 - 🌱 I’m currently learning **Jakarta EE**
