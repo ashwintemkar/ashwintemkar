@@ -6,7 +6,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rothardo&theme=vision_friendly_dark" alt="Profile Detail" />
 </p>
 
-- 🌱 I’m currently learning **Jakarta EE**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 📫 reach me at **ashwintemkar@gmail.com**
   
