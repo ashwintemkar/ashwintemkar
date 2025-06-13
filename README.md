@@ -115,6 +115,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashwintemkar&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashwintemkar&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashwintemkar&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashwintemkar&theme=vision_friendly_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashwintemkar&theme=vision_friendly_dark&utcOffset=5.5)
 ![ashwintemkar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashwintemkar&theme=vision-friendly-dark&hide_border=true)
 
