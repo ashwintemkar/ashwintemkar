@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ashwin Anand Temkar</h1>
 <h3 align="center">A passionate Full Stack developer from India </h3>
 <center>
-
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwintemkar&theme=vision_friendly_dark" alt="Profile Detail" />
 </p>
+
 
 - 🌱 I’m currently learning **Agentic AI**
 
@@ -110,11 +110,26 @@
   </p>
  </h3>
 
+🏆 GitHub Trophies  
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saurabhjain708&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+
+
+</p>
 
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashwintemkar&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashwintemkar&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashwintemkar&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashwintemkar&theme=vision_friendly_dark&utcOffset=5.5)
-![ashwintemkar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashwintemkar&theme=vision-friendly-dark&hide_border=true)
+## 📈 Activity Graph  
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwintemkar&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" />
+</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ashwintemkar&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
