@@ -113,7 +113,7 @@
 🏆 GitHub Trophies  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saurabhjain708&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashwintemkar&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
