@@ -116,6 +116,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ashwintemkar&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
+
+[![An image of @rothardo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rothardo)](https://holopin.io/@rothardo)
 ---
 
 
