@@ -117,7 +117,7 @@
 </div>
 
 
-[![An image of @rothardo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rothardo)](https://holopin.io/@rothardo)
+[![An image of @rothardo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashwintemkar)](https://holopin.io/@ashwintemkar)
 ---
 
 
