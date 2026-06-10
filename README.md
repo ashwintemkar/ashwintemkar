@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India </h3>
 <center>
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwintemkar&theme=vision_friendly_dark" alt="Profile Detail" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwintemkar&theme=vision_friendly_dark" alt="Profile Detai" />
 </p>
 
 
@@ -131,6 +131,6 @@
 ## 📈 Activity Graph  
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwintemkar&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwintemkar&theme=react-dark&bg_color=20232a" alt="Activity Graph" />
 </div>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ashwintemkar&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ashwintemkar&theme=vision-friendly-dark" alt="GitHub Streaks" /></a>
