@@ -133,4 +133,4 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwintemkar&theme=react-dark&bg_color=20232a" alt="Activity Graph" />
 </div>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ashwintemkar&theme=vision-friendly-dark" alt="GitHub Streaks" /></a>
+
