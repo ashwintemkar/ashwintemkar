@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India </h3>
 <center>
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwintemkar" alt="Profile Detais" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwintemkar&theme=vision_friendly_dark" alt="Profile Detais" />
 </p>
 
 
